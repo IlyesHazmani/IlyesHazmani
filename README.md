@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **Flutter, Artificial intelligence**
+- 💬 Ask me about **Flutter, Artificial intelligence and Problem solving**
 
 - 📫 How to reach me **hazilyes@gmail.com**
 
